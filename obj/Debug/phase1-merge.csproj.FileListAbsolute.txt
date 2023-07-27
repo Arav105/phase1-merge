@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-merge\phase1-merge\bin\Debug\phase1-merge.exe.config
+C:\Users\Admin\source\repos\phase1-merge\phase1-merge\bin\Debug\phase1-merge.exe
+C:\Users\Admin\source\repos\phase1-merge\phase1-merge\bin\Debug\phase1-merge.pdb
+C:\Users\Admin\source\repos\phase1-merge\phase1-merge\obj\Debug\phase1-merge.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-merge\phase1-merge\obj\Debug\phase1-merge.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-merge\phase1-merge\obj\Debug\phase1-merge.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-merge\phase1-merge\obj\Debug\phase1-merge.exe
+C:\Users\Admin\source\repos\phase1-merge\phase1-merge\obj\Debug\phase1-merge.pdb
